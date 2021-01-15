@@ -3,10 +3,25 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/*headings*/
+
 .hearder-one{
     font-weight: normal;
     font-size: 50px;
     color: white;
+}
+.header-two{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;  
+}
+.header-sub{
+    color: gray;
+    font-size: 21px;
+}
+/*links*/
+
 }.header-a{
     font-size: 16px;
     color: aquamarine;
